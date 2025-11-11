@@ -1,11 +1,12 @@
 streamlit
 pandas
-matplotlib.pyplot
+matplotlib
 numpy
 io
 tempfile
 defaultdict
 os 
+
 
 
 
