@@ -4,3 +4,6 @@ pydeck
 numpy
 openpyxl
 xlrd
+matplotlib.pyplot
+os
+io
