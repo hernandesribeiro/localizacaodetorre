@@ -1,10 +1,13 @@
 streamlit
 pandas
-pydeck
+matplotlib
 numpy
+io
+tempfile
+pydeck
 openpyxl
 xlrd
-matplotlib
 os
-io
+
+
 
